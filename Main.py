@@ -1,1 +1,1 @@
-from Game import tictactoe.py
+from Game import tictactoe
